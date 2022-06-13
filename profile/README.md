@@ -3,6 +3,8 @@
 
  - Andreas Maerten [Github](https://github.com/Yimura)
  - Joren vanGoethem [Github](https://github.com/Joren-vanGoethem)
+ - zjeffer [Github](https://github.com/zjeffer)
+
 
 ## Read the docs
 
